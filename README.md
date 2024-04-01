@@ -5,11 +5,11 @@
 
 ### About Me :
 
-I am driven by curiosity and I desire to keep learning to have the ability to solve as many problems as possible. I am a student who dives head first into the world of Backend and Mobile Development knowledge. It is by passionately working that I try to improve all my knowledge and abilities in the world of technologies!
+- 👀 I am a student who dives head first into the world of Backend and Software Development. It is by passionately working that I try to improve all my knowledge and abilities in the world of technologies!
 
-🎓 **Computer Science Student** at the University of Aveiro - ESTGA 🇵🇹 
+- 🎓 **Computer Science Student** at the University of Aveiro - ESTGA 🇵🇹 
 
-🏅 **Swimming Athlete** - 5 national records, 11 national titles and one time Central North Swimmer of the Year
+- 🏅 **Swimming Athlete** - 5 national records, 11 national titles and one time Central North Swimmer of the Year
 
 ---
 <!--
