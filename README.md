@@ -5,7 +5,7 @@ I am driven by curiosity and I desire to keep learning to have the ability to so
 ---
 
 <p>🎓 Computer Science at the University of Aveiro - ESTGA 🇵🇹 </p>
-<p>🏅 Swimming Athlete - 5 national records and more national titles </p>
+<p>🏅 Swimming Athlete - 5 national records, 11 national titles and 1 Central North Swimmer of the Year Title (2021/2022) </p>
 
 <!--
 **DiogoGramunha/DiogoGramunha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
