@@ -1,6 +1,6 @@
-### Hi, I'm @DiogoGramunha👋
+# Hi, I'm @DiogoGramunha👋
 
-![DiogoGramunha GitHub stats](https://github-readme-stats.vercel.app/api?username=DiogoGramunha&show_icons=true&theme=dracula&count_private=true)
+I am driven by curiosity and I desire to keep learning to have the ability to solve as many problems as possible. I am a student who dives head first into the world of Backend and Mobile Development knowledge. It is by passionately working that I try to improve all my knowledge and abilities in the world of technologies!
 <!--
 **DiogoGramunha/DiogoGramunha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
