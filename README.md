@@ -1,6 +1,6 @@
 # Hi, I'm @DiogoGramunha👋
 
-## About me...
+### About Me :
 
 I am driven by curiosity and I desire to keep learning to have the ability to solve as many problems as possible. I am a student who dives head first into the world of Backend and Mobile Development knowledge. It is by passionately working that I try to improve all my knowledge and abilities in the world of technologies!
 
