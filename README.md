@@ -3,6 +3,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+<iframe src="https://giphy.com/embed/qy5puFfG5DGAFbr0SD" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
 ### About Me :
 
 - 👀 I am a student who dives head first into the world of Backend and Software Development. It is by passionately working that I try to improve all my knowledge and abilities in the world of technologies!
