@@ -1,4 +1,4 @@
-# Hi, I’m @DiogoGramunha
+# Hi, I’m @DiogoGramunha 👋
 
 
 <div align="center">
