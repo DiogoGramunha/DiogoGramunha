@@ -15,6 +15,8 @@
 
 - 🏅 **Swimming Athlete** - 5 national records, 11 national titles and one time Central North Swimmer of the Year
 
+- 💬 **Reach me in**: diogo.ailv05@gmail.com
+
 ---
 <!--
 **DiogoGramunha/DiogoGramunha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
