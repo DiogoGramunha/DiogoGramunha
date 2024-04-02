@@ -15,7 +15,7 @@
 
 - 🏅 **Swimming Athlete** - 5 national records, 11 national titles and one time Central North Swimmer of the Year
 
-- 💬 **Reach me in**: diogo.ailv05@gmail.com
+- 💬 **Reach me in**: diogo.silv05@gmail.com
 
 ---
 <!--
