@@ -3,9 +3,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXVhbjAxYWdrbGh0MmpndmtqY2Vldng2Nzd3OTJ4ejVlZWhqNDk2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wvQIqJyNBOCjK/giphy.gif" width="600px" height="300px"/>
-</div>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXVhbjAxYWdrbGh0MmpndmtqY2Vldng2Nzd3OTJ4ejVlZWhqNDk2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wvQIqJyNBOCjK/giphy.gif" width="600px" height="300px" align="center"/>
+
+
+---
 
 ### About Me :
 
