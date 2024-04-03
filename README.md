@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad-1.gif" width="600px" height="300px"/>
+  <img src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad-1.gif"/>
 </div>
 
 ---
