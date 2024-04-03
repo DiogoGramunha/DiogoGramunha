@@ -18,6 +18,9 @@
 - 💬 **Reach me in**: diogo.silv05@gmail.com
 
 ---
+
+### SKills :
+<div> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;</div>
 <!--
 **DiogoGramunha/DiogoGramunha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
