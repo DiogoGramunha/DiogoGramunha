@@ -13,7 +13,7 @@
 
 - 🎓 **Computer Science Student** at the University of Aveiro - ESTGA 🇵🇹 
 
-- 🏅 **Swimming Athlete** - 5 national records, 11 national titles and one time Central North Swimmer of the Year
+- 🏅 **Swimming Athlete** - 5 national records, 11 national titles and one time Central North Swimmer of the Year.
 
 - 💬 **Reach me in**: diogo.silv05@gmail.com
 
