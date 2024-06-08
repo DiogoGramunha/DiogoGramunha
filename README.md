@@ -11,7 +11,7 @@
 
 - 📑 I am a student who dives head first into the world of Backend and Software Development. It is by passionately working that I try to improve all my knowledge and abilities in the world of technologies!
 
-- 🎓 **Computer Science Student** at the University of Aveiro - ESTGA 🇵🇹 
+- 🎓 **Computer Science Student** at the University of Aveiro 🇵🇹 
 
 - 🏅 **Swimming Athlete** - 5 national records, 11 national titles and one time Central North Swimmer of the Year.
 
