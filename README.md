@@ -9,7 +9,7 @@
 
 ### About Me :
 
-- 📑 I am a student who dives head first into the world of Backend and Software Development. It is by passionately working that I try to improve all my knowledge and abilities in the world of technologies!
+- 📑 I am a student who dives head first into the world of Full-Stack and Software Development. It is by passionately working that I try to improve all my knowledge and abilities in the world of technologies!
 
 - 🎓 **Computer Science Student** at the University of Aveiro 🇵🇹 
 
