@@ -44,7 +44,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DiogoGramunha&show_icons=true&theme=github_dark" alt="Diogo's GitHub stats" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoGramunha&theme=github_dark&layout=large" alt="Top Languages" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoGramunha&theme=github_dark" alt="Top Languages" width="45%"/>
 </div>
 
 ---
