@@ -87,10 +87,6 @@
   <a href="https://github.com/DiogoGramunha"><img src="https://img.shields.io/github/followers/DiogoGramunha?label=Follow&style=social" alt="GitHub"/></a>
 </p>
 
-<div align="center">
-  <img src="https://media.licdn.com/dms/image/D4E16AQHwS3X36HoQug/profile-displaybackgroundimage-shrink_350_1400/0/1698367756998?e=1724284800&v=beta&t=XoVAhNJTrasAH5ZX3ygPU66BOx56dotWAgGbVjvqGDo" alt="Banner" width="1000" height="100"/>
-</div>
-
 <!--
 **DiogoGramunha/DiogoGramunha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
