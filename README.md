@@ -56,7 +56,7 @@
 
 ### Yoda Things
 - **Description**: Yoda Things is a project for developing scripts/mods for FiveM/GTA5.
-- **Technologies Used**: Lua, MySQL, JavaScript, HTML, CSS
+- **Technologies Used**: Lua, MySQL, React, JavaScript, HTML, CSS
 - **GitHub Repo**: [Link to the project](https://github.com/stars/DiogoGramunha/lists/yoda-things)
 - **Documentation**: [Yoda Things Docs](https://yoda-things.gitbook.io/yoda-things-documentation)
 <!--
