@@ -21,7 +21,7 @@
 
 - 🌱 I’m a passionate Full Stack and Software Development student, continuously improving my knowledge and skills in technology.
 - 🎓 [**Computer and Informatic Engineering**](https://www.ua.pt/pt/curso/486) student at University of Aveiro 🇵🇹  
-- 🏊‍♂️ **Swimming Athlete** with 5 national records, 15 national titles, and named Central North Swimmer of the Year.
+- 🏊‍♂️ **Swimming Athlete** with 5 national records, 15+ national titles, and named Central North Swimmer of the Year.
 - 💬 **Reach me at**: [diogo.silv05@gmail.com](mailto:diogo.silv05@gmail.com)
 
 ---
